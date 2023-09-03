@@ -1,0 +1,28 @@
+
+.intro{
+    font-size: larger;
+    width: 500px;
+    margin:200px auto;
+    color:white;
+
+}
+.intro li{
+    list-style: none;
+    font-size:20px;
+}
+#highlight{
+    font-size: 50px;
+}
+.intro li span{
+    color:orange;
+}
+.intro li button{
+    background-color: orange;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.intro li button a{
+    text-decoration: none;
+    color:white;
+}
+

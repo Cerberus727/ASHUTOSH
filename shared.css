@@ -1,0 +1,52 @@
+body{
+    background:url('wp2639536.jpg');
+    background-size: 1500px;
+}
+.left img{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top:20px;
+    margin-left:50px;
+}
+.left{
+    color:white;
+    display: inline-block;
+}
+.mid{
+    display:block;
+    width:30%;
+    margin: auto;
+    color:white;
+}
+.mid nav li{
+    color:white;
+    display: inline-block;
+}
+.mid nav a{
+    color:white;
+    text-decoration: none;
+    padding-top:2px;
+    padding-bottom:2px;
+    padding-left:10px;
+
+}
+.mid nav a:hover{
+    color:yellow;
+}
+.right{
+    position:absolute;
+    top:20px;
+    right:20px;
+    padding-right: 30px;
+    color:white;
+} 
+.right nav li{
+    list-style: none;
+    display: inline-block;
+    padding: 0 20px 0;
+
+}
+.right nav a{
+    text-decoration: none;
+}

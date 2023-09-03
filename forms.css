@@ -1,0 +1,25 @@
+.application{
+    position: relative;
+    top:50px;
+    text-align: center;
+    color:white;
+    font-size: 50px;
+}
+.application form input{
+    text-align: center;
+    width: 500px;
+    padding: 5px;
+}
+.application form button{
+    width: 500px;
+    background:red;
+    border-radius: 3px ;
+    padding:5px;
+}
+.application form button a{
+    color:white;
+    text-decoration: none;
+}
+.application form button a:hover{
+    background: orange;
+}
